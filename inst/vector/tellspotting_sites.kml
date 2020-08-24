@@ -1,0 +1,3771 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>Tellspotting</name>
+	<open>1</open>
+	<description><![CDATA[<br><img src="http://people.csail.mit.edu/menze/habur_org/img/SRTM_crescents.JPG" style="text-align:center; width:100%">
+Tell-like mounds in the SRTM model of northern Mesopotamia, and the northern Levant.<br><br>  Subset of data from <a href="http://www.habur.org">www.habur.org</a>. <br><br>
+
+]]></description>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.590909</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Tellspotting</name>
+		<description>Individual mounds in the SRTM, with maximal elevation in the elevation model.</description>
+		<Placemark>
+			<description>mound elevation = 22.885m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.731667,34.335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.106m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.985833,34.708333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 24.539m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.915,34.408333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.577m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.095,34.670833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.164m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.13,34.669167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.822m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.125,34.713333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.478m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.039167,34.5975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.324m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.015833,34.5825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.893m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.05,34.6275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.577m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.0775,34.628333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.993m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.274167,34.160833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.174m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.599167,34.995833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.43m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.559167,34.911667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.236m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.52,34.558333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.087m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.73,34.845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.686m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.799167,34.838333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.047m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.791667,34.796667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.195m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.714167,34.723333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.254m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.8,34.6275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.764m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.8425,34.9725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.216m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.893333,34.205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.202m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.06,34.999167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.603m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.028333,34.643333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.006m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.1275,34.1425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.418m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.065,34.3875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 24.659m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.7975,34.3875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 26.418m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.804167,34.3875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.435m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.994167,34.083333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.155m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.740833,34.585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.715m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.909167,34.998333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.834m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.9325,34.683333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.104m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.899167,34.629167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.771m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.104167,34.495833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.979m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.319167,34.624167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.049m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.305,34.619167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.689m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.313333,34.606667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.154m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.576667,34.4925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 23.807m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.75,34.729167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 27.231m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.986667,35.35,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.594m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.330833,35.7425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 23.862m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.453333,35.93,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.209m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.486667,35.9425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.422m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.479167,35.8575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.529m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.440833,35.808333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 26.822m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.400833,35.724167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 31.825m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.3875,35.685833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 23.832m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.465833,35.820833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.921m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.400833,35.751667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.53m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.476667,35.8325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.03m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.385833,35.580833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 25.702m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.484167,35.356667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.27m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.435,35.4775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 44.407m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.3925,35.42,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.898m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.394167,35.368333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.304m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.396667,35.288333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.277m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.38,35.321667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.385m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.413333,35.21,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.584m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.446667,35.200833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.578m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.47,35.240833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.615m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.471667,35.189167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.499m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.489167,35.2775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.339m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.381667,35.259167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.886m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.415,35.033333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 24.583m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.455,35.014167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.616m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.516667,35.9175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.527m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.526667,35.935833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.122m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.5725,35.865833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.362m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.630833,35.878333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.215m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.540833,35.959167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.021m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.589167,35.431667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.117m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.536667,35.380833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.138m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.646667,35.443333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.986m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.5025,35.415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.106m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.520833,35.27,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.152m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.565833,35.140833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.645m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.593333,35.045833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.922m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.570833,35.046667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.585m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.6675,35.0525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 33.94m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.584167,35.160833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 24.438m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.798333,35.905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 23.506m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.674167,35.894167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.067m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.789167,35.413333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.494m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.741667,35.486667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.592m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.685,35.375833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.718m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.739167,35.436667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.265m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.700833,35.175833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.891m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.774167,35.241667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.516m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.83,35.239167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 23.978m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.735,35.025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.492m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.865,35.865833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.057m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.956667,35.826667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.443m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.961667,35.433333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.569m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.919167,35.3675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.543m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.976667,35.2525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.316m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.925,35.21,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.788m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.895,35.098333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.468m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.954167,35.031667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.584m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.8775,35.125833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.885m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.883333,35.0125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.839m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.044167,35.988333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.214m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.0025,35.990833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.308m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.11,35.919167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.258m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.138333,35.8975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.606m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.044167,35.764167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.221m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.150833,35.476667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.559m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.07,35.091667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.988m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.195,35.5975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 32.055m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.4975,35.776667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.963m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.5375,35.995833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.329m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.516667,35.841667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.818m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.6525,35.9225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.847m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.436667,35.563333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.407m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.024167,35.973333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.181m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.083333,35.398333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 24.329m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.1775,35.400833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.757m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.878333,35.860833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.302m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.915,35.95,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.329m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.640833,35.225833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.625m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.559167,35.0375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.332m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.91,35.951667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.799m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.006667,35.880833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.304m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.138333,35.729167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.021m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.065833,35.680833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.956m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.236667,35.7,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.754m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.311667,35.480833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.71m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.476667,35.34,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.066m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.488333,35.308333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.446m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.835,35.536667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.819m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.15333300000001,35.558333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.241m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.64916699999999,35.36,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.218m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.71500000000001,35.3775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.038m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.81,35.371667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.822m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.739167,35.320833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 27.067m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.89166699999999,35.9925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 25.217m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.87583300000001,35.7075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.876m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.879167,35.7175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.716m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.926667,35.639167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.425m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.945833,35.355833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.605m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.93999999999999,35.221667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.193m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.98,35.288333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 31.789m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>46.04333299999999,35.633333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 26.733m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>46.040833,35.300833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.756m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.3775,36.598333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.049m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>34.661667,36.825833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 25.736m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.583333,36.8375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.79m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.740833,36.931667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.178m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.2525,36.3675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.589m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.245833,36.3525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 36.622m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.254167,36.270833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 32.714m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.391667,36.564167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.482m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.391667,36.503333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.506m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.450833,36.536667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.425m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.451667,36.56,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.753m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.464167,36.6175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.836m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.48,36.554167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.836m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.495,36.529167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.962m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.4275,36.3175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.352m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.464167,36.24,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.009m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.37,36.181667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.428m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.383333,36.239167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.556m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.503333,36.26,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.559m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.4,36.306667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.695m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.385,36.135833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.814m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.480833,36.0475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.009m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.434167,36.104167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.104m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.541667,36.815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.656m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.663333,36.826667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.471m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.590833,36.668333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.452m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.520833,36.565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.439m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.493333,36.565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.478m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.53,36.378333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 27.727m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.59,36.371667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.814m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.5925,36.495833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.352m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.531667,36.289167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 25.626m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.61,36.318333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.102m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.586667,36.2675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.943m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.5925,36.038333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.142m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.831667,36.551667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.515m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.6875,36.385833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.176m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.814167,36.486667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 29.077m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.7625,36.125833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.322m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.965,36.8525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.299m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.835833,36.5375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.179m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.8525,36.553333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.538m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.965,36.585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.628m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.8525,36.459167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.668m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.845,36.409167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.991m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.095,36.4725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 29.822m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.1625,36.2,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.922m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.205833,36.904167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.957m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.2725,36.6975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.953m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.178333,36.699167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.425m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.200833,36.788333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.847m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.313333,36.578333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.881m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.228333,36.445833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.336m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.461667,36.941667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.442m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.425833,36.854167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.254m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.3475,36.756667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.989m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.343333,36.616667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.647m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.475,36.66,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.604m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.451667,36.179167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.227m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.3475,36.124167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 27.623m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.559167,36.874167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.09m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.638333,36.7675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.325m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.65,36.816667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.455m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.539167,36.395833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.331m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.563333,36.223333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.039m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.515,36.121667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.452m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.6975,36.45,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.344m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.854167,36.6525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.726m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.119167,36.7325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.335m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.016667,36.831667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.177m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.301667,36.9025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.394m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.234167,36.929167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 27.857m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.438333,36.850833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.46m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.379167,36.971667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 24.232m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.483333,36.978333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.6m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.364167,36.798333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.194m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.48,36.8225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.362m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.530833,36.899167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.136m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.543333,36.864167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.962m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.626667,36.895833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.058m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.540833,36.71,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.259m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.699167,36.71,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.328m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.833333,36.706667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.436m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.905,36.8475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.952m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.88,36.899167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.806m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.945,36.948333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.078m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.993333,36.869167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.73m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.92,36.815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.221m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.985,36.684167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.055m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.990833,36.7825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.738m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.853333,36.806667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.923m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.995,36.585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.6m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.980833,36.210833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.452m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.03,36.8625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.472m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.074167,36.974167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 26.407m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.056667,36.4825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 23.816m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.285,36.653333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.152m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.276667,36.58,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.829m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.491667,36.693333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.513m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.443333,36.5725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.639m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.668333,36.675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.031m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.741667,36.645833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.057m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.776667,36.0575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.285m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.855833,36.7925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.131m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.836667,36.755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.571m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.870833,36.700833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.532m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.0025,36.831667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.422m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.085,36.738333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.449m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.3625,36.909167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.29m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.3625,36.939167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.815m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.2975,36.966667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.343m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.344167,36.799167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.426m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.365,36.659167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.36m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.459167,36.936667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.636m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.485833,36.859167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.069m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.455833,36.845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.477m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.555833,36.9825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.388m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.431667,36.7175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.083m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.5875,36.738333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.041m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.555833,36.565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.095m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.614167,36.9625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.935m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.610833,36.889167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.015m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.634167,36.850833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.062m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.601667,36.8075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.591m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.7175,36.829167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.091m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.7,36.95,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.21m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.738333,36.999167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.372m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.740833,36.880833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.434m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.786667,36.823333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.889m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.606667,36.683333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.362m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.698333,36.7775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.95m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.7175,36.676667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.505m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.740833,36.790833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.784m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.734167,36.728333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.383m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.775833,36.7025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 23.505m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.786667,36.601667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.761m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.668333,36.591667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.829m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.614167,36.54,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.622m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.72,36.209167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.194m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.795833,36.351667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.672m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.749167,36.038333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.446m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.8975,36.875833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.878m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.8325,36.7025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.685m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.8375,36.655833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.961m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.065,36.961667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.234m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.140833,36.955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.618m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.051667,36.915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.1m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.021667,36.873333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.997m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.050833,36.7825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.004m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.125,36.755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.528m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.126667,36.739167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.769m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.165,36.816667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 25.211m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.2275,36.978333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.342m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.173333,36.910833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 23.533m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.2375,36.758333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.625m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.300833,36.709167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.546m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.269167,36.700833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 26.945m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.3325,36.824167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.951m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.229167,36.661667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 27.119m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.2325,36.350833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.643m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.441667,36.996667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.15m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.375,36.9525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.563m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.334167,36.948333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.281m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.365833,36.891667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 27.363m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.461667,36.831667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.219m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.481667,36.153333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.765m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.624167,36.8925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.125m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.563333,36.924167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.313m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.716667,36.861667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.322m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.786667,36.938333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.15m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.7775,36.808333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.835m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.71,36.16,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.712m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.865,36.870833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.163m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.97,36.949167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.489m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.9575,36.815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.795m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.030833,36.84,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.964m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.133333,36.675833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.801m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.009167,36.176667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.911m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.050833,36.15,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.771m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.300833,36.749167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.623m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.331667,36.374167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.275m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.455,36.375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.133m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.426667,36.35,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.676m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.558333,36.558333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.666m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.5975,36.43,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.078m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.738333,36.515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.508m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.746667,36.521667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.371m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.921667,36.7775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.594m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.948333,36.4025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.821m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.153333,36.3625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.76m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.034167,36.183333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.19m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.000833,36.136667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.813m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.213333,36.703333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.577m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.2125,36.171667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.912m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.205833,36.228333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.679m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.296667,36.249167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.232m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.329167,36.100833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.762m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.305833,36.145833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.508m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.480833,36.5925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.523m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.3475,36.435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.403m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.41,36.305833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.606m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.390833,36.1175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.45m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.596667,36.536667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.145m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.704167,36.623333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.105m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.7525,36.105833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.745m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.94,36.89,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.937m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.94,36.046667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.905m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.01,36.1925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 25.382m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.4025,36.489167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.235m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.755833,36.255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.174m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.16166699999999,36.905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.001m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.158333,36.69,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.085m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.17,36.724167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.753m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.141667,36.725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.264m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.098333,36.1425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.346m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.3075,36.986667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.579m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.21583300000001,36.680833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.166m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.388333,36.955833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.291m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>45.565,36.901667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 28.917m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.029167,37.6225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.505m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.124167,37.645833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.785m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.026667,37.1975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.963m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.093333,37.3275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.355m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.258333,37.62,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.1m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.32,37.3725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.383m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.205833,37.1825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.3775,37.671667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.13m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.361667,37.349167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.042m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>34.000833,37.49,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.924m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>34.38,37.9375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 25.643m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>34.479167,37.920833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.283m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>34.563333,37.951667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.207m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>34.679167,37.9675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.206m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.7325,37.44,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 24.798m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.813333,37.296667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.278m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.839167,37.054167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.974m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.976667,37.0575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.34m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.109167,37.12,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 24.043m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.050833,37.123333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.048m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.565,37.809167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.334m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.745833,37.078333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.33m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.1375,37.365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.899m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.1275,37.308333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.785m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.308333,37.186667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.313m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.285,37.196667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.404m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.614167,37.455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.12m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.5675,37.32,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.19m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.601667,37.108333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.762m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.694167,37.425833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.336m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.855833,37.560833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.67m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.9775,37.5925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.748m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.275833,37.759167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 24.268m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.323333,37.095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.443m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.440833,37.409167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.626m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.338333,37.383333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 24.781m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.359167,37.0375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.625m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.675833,37.475833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.592m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.781667,37.35,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.958m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.731667,37.275833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.919m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.7225,37.288333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 33.364m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.906667,37.05,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.931m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.9425,37.003333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.091m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.8675,37.105833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.98m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.845833,37.12,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.565m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.163333,37.6075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.546m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.014167,37.555833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.127m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.055833,37.515833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.258m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.118333,37.49,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.396m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.015833,37.24,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.76m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.005,37.289167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.068m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.028333,37.076667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.743m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.065,37.155833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.737m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.316667,37.755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.069m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.198333,37.153333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.493m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.483333,37.549167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.486m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.466667,37.515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.83m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.436667,37.4525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.833m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.580833,37.5275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.28m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.595833,37.620833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.939m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.553333,37.425833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.921m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.5225,37.414167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.521m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.643333,37.360833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 25.972m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.656667,37.310833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.282m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.685,37.748333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.204m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.755,37.311667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.04m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.828333,37.17,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 26.936m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.738333,37.040833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.748m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.9275,37.984167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.916m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.931667,37.190833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.799m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.0325,37.935833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.188m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.051667,37.984167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.376m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.135,37.175833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.769m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.069167,37.273333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 27.401m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.315833,37.953333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.134m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.275833,37.776667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.402m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.263333,37.254167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.326m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.274167,37.274167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.247m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.2425,37.1675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.135m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.445833,37.196667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.737m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.401667,37.004167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.958m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.4625,37.056667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.621m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.4125,37.09,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.856m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.440833,37.124167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.522m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.42,37.1525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.883m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.595,37.755833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.569m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.59,37.191667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.002m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.5075,37.190833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 25.306m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.513333,37.145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.724m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.545,37.085833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.073m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.690833,37.774167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 30.019m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.784167,37.225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.003m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.669167,37.08,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.102m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.678333,37.121667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.118m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.998333,37.0575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 26.551m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.9325,37.133333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.735m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.844167,37.11,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.567m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.113333,37.8775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.141m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.12,37.066667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.525m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.308333,37.093333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.305m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.230833,37.105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.815m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.385,37.111667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.904m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.4375,37.0525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.621m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.4275,37.115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.381m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.494167,37.035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.887m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.566667,37.924167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.543m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.544167,37.8025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.251m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.610833,37.478333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.755m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.516667,37.083333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.277m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.7875,37.028333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.769m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.803333,37.1075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.366m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.950833,37.183333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.719m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.996667,37.049167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.107m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.0275,37.1875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.72m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.055,37.06,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.818m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.419167,37.2075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.028m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.344167,37.151667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.194m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.901667,37.245833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 31.94m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.0125,38.495,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.699m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.038333,38.4925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 30.854m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.075,38.0475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.317m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.959167,38.955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.927m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>33.844167,38.4725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.51m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>34.405,38.728333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.764m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>34.354167,38.375833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.094m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>34.420833,38.196667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 29.249m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>34.611667,38.34,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 21.399m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.113333,38.945833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.739m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.029167,38.7575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 29.08m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.084167,38.065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.669m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.2525,38.69,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.71m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.325833,38.425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.112m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.210833,38.215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 24.778m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.454167,38.905833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 32.118m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.431667,38.7675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 17.957m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.473333,38.760833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 29.197m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.460833,38.3675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 40.125m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.3425,38.208333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.457m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.866667,38.979167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 18.729m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.894167,38.594167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.235m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.835,38.5175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.989m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>35.951667,38.456667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 26.673m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.2325,38.239167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.336m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.386667,38.8225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.569m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.495833,38.0225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 36.481m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.505833,38.3825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.477m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.858333,38.358333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 38.014m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>36.941667,38.4975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.618m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.113333,38.261667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.031m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.530833,38.505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 20.645m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>37.9175,38.238333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.047m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>38.2875,38.426667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.292m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.080833,38.630833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.505m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.47,38.618333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 16.545m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.825,38.175833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.776m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.789167,38.100833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.413m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.898333,38.776667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.201m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.866667,38.045833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.851m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>39.981667,38.1475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.725m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.244167,38.028333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 19.728m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>40.3625,38.015833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 15.174m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>41.443333,38.850833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 27.111m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.298333,38.515833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 29.602m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>42.95,38.305833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 26.374m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.763333,38.995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 31.22m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>43.7225,38.651667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 33.497m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.1675,38.473333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 22.142m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.785,38.181667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 13.645m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.7925,38.1675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 14.06m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.920833,38.523333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>mound elevation = 12.562m</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>44.9625,38.193333,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
