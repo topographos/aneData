@@ -1,0 +1,119 @@
+﻿Year,Area,Error,Notes,Empire,Region
+-3200,0,0,City culture starts,Egypt,Africa
+-3000,0.1,0.05,Separate Upper and Lower Egypt formed,Egypt,Africa
+-2900,0.1,0.05,Unification starts,Egypt,Africa
+-2850,0.25,0.1,Old Empire: unification completed,Egypt,Africa
+-2400,0.4,0.1,"Peak size: advance into Sinai, Nubia",Egypt,Africa
+-2300,0.25,0.1,Feudalization. Independent South,Egypt,Africa
+-2200,0.08,0.05,Largest fragment size estimated,Egypt,Africa
+-2050,0.15,0.05,Middle Empire: unification starts,Egypt,Africa
+-1850,0.5,0.1,"Peak size: 2nd Cataract, Nubia, Sinai held.",Egypt,Africa
+-1750,0.4,0.15,Disturbances Start,Egypt,Africa
+-1650,0,0,Hykso conquest. First horse chariots,Egypt,Africa
+-1550,0.4,0.15,New Empire: Hyksos expelled,Egypt,Africa
+-1500,0.65,0.15,"Palestine, 3rd Cataract held",Egypt,Africa
+-1450,1,0.3,"Peak size: 4th Cataract, Syria held",Egypt,Africa
+-1400,0.9,0.3,Slow retreat from Asia starts.,Egypt,Africa
+-1350,0.8,0.3,Consolidation after disturbances,Egypt,Africa
+-1300,1,0.3,Syria retaken,Egypt,Africa
+-1275,0.9,0.3,Syria divided with Hittites,Egypt,Africa
+-1150,0.65,0.25,"Asia, Nubia lost",Egypt,Africa
+-1000,0.4,0.15,Delta independent,Egypt,Africa
+-900,0.15,0.07,Largest fragment size estimated,Egypt,Africa
+-800,0,0,Gradual Ethiopian control,Egypt,Africa
+-715,0.5,0.1,Late Period: consolidatio under Ethiopian 25th Dynast,Egypt,Africa
+-665,0,0,Assyrian conquest,Egypt,Africa
+-655,0.5,0.1,Emancipatio from Assyria,Egypt,Africa
+-550,0.65,0.15,Last peak. Sea power,Egypt,Africa
+-525,0,0,Persian conquest,Egypt,Africa
+-3200,0,0,City culture starts,Sumer,Southern Mesopotamia
+-2800,0.01,0,Early city dynasties start: Kish,Sumer,Southern Mesopotamia
+-2500,0.03,0,"Kish, Ur, Lagash city states",Sumer,Southern Mesopotamia
+-2400,0.05,0.03,Lagash holds all Sumer,Sumer,Southern Mesopotamia
+-2350,0.03,0,Rule of Sargon I starts,Akkadia,Southern Mesopotamia
+-2330,0,0,Conquest by Akkadia,Sumer,Southern Mesopotamia
+-2300,0.65,0.15,Mesopotamia held,Akkadia,Southern Mesopotamia
+-2250,0.8,0.15,"Advance into Arabia, Zagros",Akkadia,Southern Mesopotamia
+-2200,0.25,0.15,Decline,Akkadia,Southern Mesopotamia
+-2150,0,0,Conquest by Gutians,Akkadia,Southern Mesopotamia
+-2050,0.03,0,Reestablishment: Late Sumer,Sumer,Southern Mesopotamia
+-2000,0.1,0.05,Peak,Sumer,Southern Mesopotamia
+-1950,0,0,Collapse,Sumer,Southern Mesopotamia
+-1800,0.03,0,,Babylon,Southern Mesopotamia
+-1760,0.15,0.05,,Babylon,Southern Mesopotamia
+-1730,0.15,0.05,Hammurabi's rule starts,Babylon,Southern Mesopotamia
+-1725,0.1,0.05,Rimsin of Larsa,Sumer,Southern Mesopotamia
+-1700,0.08,0.03,First  mention around 2000 BC,Elam,Southern Mesopotamia
+-1690,0.25,0.1,Peak size,Babylon,Southern Mesopotamia
+-1690,0,0,Babylonian control until about 1630 BC,Elam,Southern Mesopotamia
+-1530,0.1,0.03,Kassite rule starts,Babylon,Southern Mesopotamia
+-1400,0.1,0.03,,Babylon,Southern Mesopotamia
+-1400,0.1,0.03,,Elam,Southern Mesopotamia
+-1160,0,0,"Conquest by Elam, until 1140 BC",Babylon,Southern Mesopotamia
+-1160,0.2,0.03,Babylon conquered,Elam,Southern Mesopotamia
+-1140,0.08,0.03,Retreat to core area,Elam,Southern Mesopotamia
+-1130,0.2,0.05,Peak size under Nebukadnezar I,Babylon,Southern Mesopotamia
+-1100,0,0,Assyrian control until 1050 BC,Babylon,Southern Mesopotamia
+-1050,0.15,0.08,Reemancipation,Babylon,Southern Mesopotamia
+-820,0.15,0.08,Supports Assyria against Medes,Babylon,Southern Mesopotamia
+-729,0,0,Assyrian control,Babylon,Southern Mesopotamia
+-639,0,0,"Conquest by Assyria, then Persia",Elam,Southern Mesopotamia
+-625,0.15,0.05,Independendce from Assyria,Babylon,Southern Mesopotamia
+-610,0.25,0.15,New Babylonian Empire,Babylon,Southern Mesopotamia
+-562,0.5,0.15,Peak size. Nebukadenzar II dies,Babylon,Southern Mesopotamia
+-539,0,0,Persian conquest,Babylon,Southern Mesopotamia
+-1850,0.03,0,Old Assyrian expansion starts,Assyria,Northern Mesopotamia
+-1800,0.1,0.05,Northern Mesopotami held,Assyria,Northern Mesopotamia
+-1780,0.05,0.03,Hittite attacks,Assyria,Northern Mesopotamia
+-1730,0.15,0.03,Shamshiad I,Assyria,Northern Mesopotamia
+-1700,0,0,"Bavylonian, then Mitanni control",Assyria,Northern Mesopotamia
+-1375,0.05,0,Middle Assyrian empire independent,Assyria,Northern Mesopotamia
+-1250,0.15,0.05,,Assyria,Northern Mesopotamia
+-1150,0.05,0.05,Aramaic invasion,Assyria,Northern Mesopotamia
+-1080,0.4,0.1,Tiglalpileser I. Peak size,Assyria,Northern Mesopotamia
+-1050,0.05,0.05,Retreat to core area,Assyria,Northern Mesopotamia
+-900,0.05,0,New Assyrian Empire starts,Assyria,Northern Mesopotamia
+-880,0.15,0.03,,Assyria,Northern Mesopotamia
+-860,0.4,0.15,First cavalry,Assyria,Northern Mesopotamia
+-824,0.65,0.15,Advance into Syria. Peak size,Assyria,Northern Mesopotamia
+-750,0.4,0.15,Losses to Urartu,Assyria,Northern Mesopotamia
+-727,0.6,0.2,"Syria, Palestine held",Assyria,Northern Mesopotamia
+-700,0.9,0.2,"Hittites, Urartu conquered",Assyria,Northern Mesopotamia
+-670,1.4,0.3,Egypt held. Peak size reached,Assyria,Northern Mesopotamia
+-655,1,0.2,Egypt lost,Assyria,Northern Mesopotamia
+-625,0.8,0.1,Babylonia independent,Assyria,Northern Mesopotamia
+-616,0.5,0,Decay,Assyria,Northern Mesopotamia
+-608,0,0,Destruction by Medea and Babylonia,Assyria,Northern Mesopotamia
+-1700,0,0,,Mitanni,Northern Mesopotamia
+-1450,0.3,0.1,Peak size until 1375,Mitanni,Northern Mesopotamia
+-1360,0.05,0,Destruction by Hittites,Mitanni,Northern Mesopotamia
+-1100,0,0,Assyrian conquest,Mitanni,Northern Mesopotamia
+-1200,0.02,0,Formation of Curriti kingdoms,Urartu,Northern Mesopotamia
+-830,0.08,0.05,Urartu Empire starts,Urartu,Northern Mesopotamia
+-800,0.2,0.08,Peak size,Urartu,Northern Mesopotamia
+-750,0.15,0.05,Decline starts,Urartu,Northern Mesopotamia
+-714,0,0,Assyrian conquest,Urartu,Northern Mesopotamia
+-2000,0,0,Arrival,Hittites,Anatolia Syria
+-1750,0.05,0.03,,Hittites,Anatolia Syria
+-1650,0.08,0.03,Creation of Old Empire,Hittites,Anatolia Syria
+-1530,0.15,0.03,Peak size,Hittites,Anatolia Syria
+-1450,0.15,0.03,New consolidation,Hittites,Anatolia Syria
+-1380,0.15,0.03,Start of New Empire,Hittites,Anatolia Syria
+-1350,0.25,0.03,,Hittites,Anatolia Syria
+-1330,0.35,0.03,,Hittites,Anatolia Syria
+-1300,0.4,0.03,,Hittites,Anatolia Syria
+-1250,0.45,0.05,,Hittites,Anatolia Syria
+-1220,0.45,0.05,,Hittites,Anatolia Syria
+-1190,0.15,0.05,Collapse: attacks by  the Sea People,Hittites,Anatolia Syria
+-710,0,0,Assyrian conquest ,Hittites,Anatolia Syria
+-1650,0.65,0.15,Egypt conquered,Hyksos,Anatolia Syria
+-1630,0.08,0.05,Churrites in Syria,Hyksos,Anatolia Syria
+-1570,0.08,0.05,Egypt lost,Hyksos,Anatolia Syria
+-1550,0,0,Egyptian advance into Syria,Hyksos,Anatolia Syria
+-700,0.02,0,Formation,Lydia,Anatolia Syria
+-650,0.15,0.08,,Lydia,Anatolia Syria
+-585,0.5,0.15,Peak size reached,Lydia,Anatolia Syria
+-546,0,0,Persian conquest,Lydia,Anatolia Syria
+-800,0.02,0,Formation,Phrygia,Anatolia Syria
+-750,0.2,0.08,,Phrygia,Anatolia Syria
+-700,0,0,Collapse ,Phrygia,Anatolia Syria
